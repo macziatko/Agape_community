@@ -14,46 +14,17 @@ To obtain the rank of a star member means getting recognition for your contribut
 
 Examples:
 
-|
-**Activity**
- |
-**Agape-related** |
-**Value** |
-**Proof to send** |
+| **Activity** | **Agape-related** | **Value** | **Proof to send** |
 | --- | --- | --- | --- |
-| Pre-register a study or research project |
-no |
-1 point |
-DOI |
-| Publish a preprint of your study |
-no |
-1 point |
-DOI |
-| Co-author\* an open science-related article |
-no |
-1 point |
-DOI |
-| Publish your DMP |
-no |
-1 point |
-DOI |
-| Post a blog post on open science |
-yes or no, depending on where you post |
-1 point |
-screenshot, email confirmation, etc. |
-| Create an open science-related infographic and share it with others on Agape social media |
-yes, please use #agapeopenscience |
-0.5 point |
-screenshot, SVG file |
-| Organise an open science-related event/workshop/lecture/webinar |
-yes or no |
-1-2 points |
-share info on our communication platform prior to the event/workshop/lecture/webinar |
-| Contribution to GitHub, OSF or similar repositories |
-yes |
-1 point |
-share a link or DOI |
-| Your imagination should not be limited by these examples. If you are not sure if your activity would be rewarded with point(s) you can always confirm this with us via email. Of course, gaining points is a good motivation but you should proceed with your activity independently of our decision. |
+| Pre-register a study or research project | no | 1 point | DOI |
+| Publish a preprint of your study | no | 1 point | DOI |
+| Co-author\* an open science-related article | no | 1 point | DOI |
+| Publish your DMP | no | 1 point | DOI |
+| Post a blog post on open science | yes or no, depending on where you post | 1 point | screenshot, email confirmation, etc. |
+| Create an open science-related infographic and share it with others on Agape social media | yes, please use #agapeopenscience | 0.5 point | screenshot, SVG file |
+| Organise an open science-related event/workshop/lecture/webinar | yes or no | 1-2 points | share info on our communication platform prior to the event/workshop/lecture/webinar |
+| Contribution to GitHub, OSF or similar repositories | yes | 1 point | share a link or DOI |
+| Your imagination should not be limited by these examples. If you are not sure if your activity would be rewarded with point(s) you can always confirm this with us via email. Of course, gaining points is a good motivation but you should proceed with your activity independently of our decision. | 
 
 \* If you are the first author contact us to collect more points.
 
