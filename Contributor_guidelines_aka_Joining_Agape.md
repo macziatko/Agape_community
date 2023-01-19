@@ -42,10 +42,10 @@ The same applies to anyone who would like to propose any open science-related ac
 
 Get in touch with us via email [agape.open.science@gmail.com](mailto:agape.open.science@gmail.com) or social media
 
-Facebook[Agape Open-Science](https://facebook.com/AgapeOpen-Science),
+Facebook [Agape Open-Science](https://facebook.com/AgapeOpen-Science),
 
-Twitter[@AgapeOpenSci](https://twitter.com/AgapeOpenSci),
+Twitter [@AgapeOpenSci](https://twitter.com/AgapeOpenSci),
 
-Instagram[Agape.Open.Science](https://www.instagram.com/Agape.Open.Science),
+Instagram [Agape.Open.Science](https://www.instagram.com/Agape.Open.Science),
 
-or on LinkedIn[Agape Open Science](https://www.linkedin.com/company/agape-open-science/).
+or on LinkedIn [Agape Open Science](https://www.linkedin.com/company/agape-open-science/).
